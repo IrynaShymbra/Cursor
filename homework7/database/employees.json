@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Liubomyr Luzhnyi",
+        "email": "llvinni@yahoo.com",
+        "plant_id": 2,
+        "id": 1
+    },
+    {
+        "name": "jack",
+        "email": "ssss@gmail.com",
+        "plant_id": "1",
+        "salon_name": "sunshine",
+        "id": 2
+    },
+    {
+        "name": "jack",
+        "email": "ssss@gmail.com",
+        "plant_id": "1",
+        "id": 3
+    },
+    {
+        "name": "jack",
+        "email": "ssss@gmail.com",
+        "plant_id": "1",
+        "salon_name": "sunshine",
+        "id": 4
+    },
+    {
+        "name": "jack",
+        "email": "ssss@gmail.com",
+        "plant_id": "1",
+        "id": 5
+    }
+]
